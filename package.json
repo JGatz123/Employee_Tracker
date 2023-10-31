@@ -20,7 +20,7 @@
   "homepage": "https://github.com/JGatz123/Employee_Tracker#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
-    "inquirer": "^9.2.11",
+    "inquirer": "^8.2.4",
     "mysql2": "^3.6.2"
   }
 }
